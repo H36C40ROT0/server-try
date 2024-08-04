@@ -1,0 +1,87 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "bonfires:recipes/misc/titanite_shard": {
+    "criteria": {
+      "has_obsidian": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-08-04 15:37:39 +0300"
+    },
+    "done": false
+  },
+  "fishing:root": {
+    "criteria": {
+      "Join the Game": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "bonfires:recipes/tools/homeward_bone": {
+    "criteria": {
+      "has_ender_pearl": "2024-08-04 15:37:39 +0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_base": "2024-08-04 16:06:38 +0300"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "nights_edge": "2024-08-04 16:03:42 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-04 16:05:10 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
